@@ -1,0 +1,19 @@
+{
+  "name": "3rd-party",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstefani87info/ares-3rd-party.git"
+  },
+  "author": "Roberto Stefani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rstefani87info/ares-3rd-party/issues"
+  },
+  "homepage": "https://github.com/rstefani87info/ares-3rd-party#readme"
+}
